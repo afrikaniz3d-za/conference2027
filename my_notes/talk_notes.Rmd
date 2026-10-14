@@ -1,6 +1,6 @@
 ---
 title: "RainbowR 2026 Conference"
-subtitle: "Notes for each talk"
+subtitle: "Notes for each talk in the public YouTube playlist"
 output: html_document
 ---
 
