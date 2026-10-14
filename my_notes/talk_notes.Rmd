@@ -1,0 +1,104 @@
+---
+title: "RainbowR 2026 Conference"
+subtitle: "Notes for each talk"
+output: html_document
+---
+
+##### **0. General**
+
+  - Were there post-talk/conference surveys conducted to find out what lander or could be improved on?
+  - Main motivation for some notes below is for cases where attendees grab the slides and decide to refer to them days, weeks, months later. Will they have the same (and complete) understanding without having to refer back to the talk video?
+  - Encourage not being afraid to have too many slides. Many presentations would benefit from using the lef/right side to have notes versus having a second image appear in the next slide to sequentially fill the space
+  - 
+
+
+##### **1. "Intersectionality in LGBTQ+ health research: Analysis in R using upset plots" | Chris Battiston**
+
+  - Really like this presentation because I learned about a new chart type and its benefits
+  - Sound was afwul. Suggesting sound checks 2 weeks (or so) prior to conf to confirm quality is good, or time to troubleshoot. 
+  - Workspace was well-sized and readable
+
+&nbsp;
+
+##### **2. "High, Low, Jack, & Claude: AI-assisted Shiny development" | Jasmine Daly**
+
+  - Verbal detailing was great, more visuals would be helpful for the sub-points to avoid relying on the subtitles
+  - Camera window covered some elements. Spotting possible obstructions like this would be another benefit or test presentations prior to conference.
+
+&nbsp;
+
+##### **3. "Queer stories through data: Highlighting LGBTQ+ cinema with R and Shiny" | Njoki Njuki & Tami Martins**
+
+  - Elements like images or text needed to be made smaller to ensure some slides held some points rather tan breaking them up.
+  - A preview of the workings of the code during the talk, then walkthrough of the app during the second half were a great touch.
+
+&nbsp;
+
+##### **4. "Beyond drag bingo: Building community at work" | Kristin Bott**
+
+  - I really like the length of the short format - and the effeciency it encourages
+  - Presentation was great. The only suggestion is more labelling of the slides to give them a complete story that is currently only possible by also listening to the presenter while looking at each slide. A week from now, when you revisit the slides, the story may not flow as easily because a lot of word-context is missing.
+
+&nbsp;
+
+##### **5. "Teaching pharmacokinetics with confidence: How R helps students see the science" | Rafael Henry-Venson**
+
+  - Subject matter way outside what I'm familiar with, so it's difficult to approach this critically aside from areas of cosial clarity. 
+  - More time and slidecrafting (focusing on abstraction/simplification) would have helped land it for me
+
+&nbsp;
+
+##### **6. "Elevating open data: Creating 3D visuals with NYC open climate data" | Ursula Kaczmarek**
+
+  - No audio
+  - Visuals remained relatively easy to follow
+
+&nbsp;
+
+##### **7. "Seeing what's missing: Visualization of incomplete and imputed data" | Hanne Oberman**
+
+  - Great job of progressively revealing points
+  - Text and images could be bigger to use up more whitespace for readability
+  - More labeling of images echoing spoken points would elevate
+  - Either make code text bolder, or use contrast to increase readability
+
+&nbsp;
+
+##### **8. "The two step method: Accurate record keeping for sex and gender" | Trystan Washburne**
+
+  - 10/10 for text sizing and use of space in the slides
+  - Some slides could have been split and portions could have had notes
+
+&nbsp;
+
+##### **9. "pointblank: Was I expecting this?" | Hannah Frick**
+
+  - Bumping up text sizes
+  - Pointing or directing attention would help make it easier to follow
+
+&nbsp;
+
+##### **10. "Belonging is political: Measuring queer sense of belonging in Higher Ed using R" | J. Audra Williams**
+
+  - Beautiful slides
+  - It really is a different creature you're dealing with when it's a longer/full talk. Most of my comments for the previous talks revolved around the need for more notes, "complete sentences". This talk had exactly that, but in such abundance that  I drifted a few times because I was being given 'all' the information. I recall thinking the demonstration portion should begin soon and we're almost done with the intro - till I looked at the timeline and saw that the talk was approaching two-thirds completion.
+  - Not a bad presentation by any measure. Was hoping to see more of all he theory being intepreted in an R environment. It does though act as a great theoretical framework for then executing something like a cool Shiny app with enteractive elements to give the respondent more info if needed.
+  - Most of these points are nullified by the reminder that JAW is new to R, and the talk does end with that call to action to build something.
+
+&nbsp;
+
+##### **11. "Migrating legacy code to R: A team-based approach to open-source adoption" | Joshua Gutoskie**
+  * A little light on notes, visuals and code
+
+&nbsp;
+
+##### **12. "Claude Code for R" | Hadley Wickham**
+
+  - Great presentation
+  - No notes
+
+&nbsp;
+
+##### **13. "The cheesecake ROI: Building a marketing mix model with tidymodels and The Golden Girls" | Ryan Timpe**
+
+  * 10/10 slides and overall presentaion (best-of-show)
